@@ -7,9 +7,8 @@
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente trabajando en proyectos con **SwiftUI** y **MapKit**.
-- ⚙️ Aplicando arquitecturas modernas como **MVVM**.
+- ⚙️ Aplicando arquitectura **MVVM**.
 - 💾 Experiencia en persistencia de datos con **UserDefaults** y **Codable**.
-- 📍 Basado en España.
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguaje:** Swift 5.10
