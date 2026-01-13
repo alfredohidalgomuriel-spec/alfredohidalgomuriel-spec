@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alfredo Hidalgo
+### 📱 iOS Developer en formación | Swift & SwiftUI
 
-<!--
-**alfredohidalgomuriel-spec/alfredohidalgomuriel-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Me apasiona el desarrollo de aplicaciones nativas para el ecosistema Apple, centrándome en crear experiencias de usuario fluidas y arquitecturas robustas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🔭 Actualmente trabajando en proyectos con **SwiftUI** y **MapKit**.
+- ⚙️ Aplicando arquitecturas modernas como **MVVM**.
+- 💾 Experiencia en persistencia de datos con **UserDefaults** y **Codable**.
+- 📍 Basado en España.
+
+## 🛠️ Tecnologías y Herramientas
+- **Lenguaje:** Swift 5.10
+- **Frameworks:** SwiftUI, Combine, MapKit.
+- **Herramientas:** Xcode, Git & GitHub.
+- **Conceptos:** Inyección de dependencias, Property Wrappers, CRUD.
+
+## 📫 Contacto
+- **Email:** [alfredohidalgomuriel@gmail.com](mailto:alfredohidalgomuriel@gmail.com)
+- **LinkedIn:** [in/alfredohidalgo](https://www.linkedin.com/in/alfredohidalgomuriel-spec)
+
+---
+
+### 📊 Mis proyectos destacados
